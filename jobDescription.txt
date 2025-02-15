@@ -1,0 +1,12 @@
+Requirements
+Minimum of Bachelors Degree in Computer Science, or equivalent
+1-2 years of professional experience as a software engineer or software engineer internship experience
+Have previous startup experience, or worked in an environment that prioritizes a bias for action
+Have an interest in learning about security or prior experience in the space
+Responsibilities
+Design, develop, and own new product functionality and/or infrastructure leveraging modern frameworks and tooling (TypeScript, React, Node.js)
+Work with talented and kind engineers to make a significant impact on our customer base, enabling them to improve their security and prove it
+Contribute to building Vanta’s engineering culture as we grow.
+Desired Qualifications
+Prior experience in the security space
+Interest in learning about security
